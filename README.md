@@ -1,4 +1,4 @@
-# Welcome to the PureHarmony based on Oniro 
+# Welcome to PureHarmony platform based on Oniro 
 
 PureHarmony hosts the code and repositories for add-ons and enhancements to the [OpenHarmony](https://www.openharmony.cn) project. These enhancements are part of the base OS, [Oniro Project](https://oniroproject.org/), an open-source, vendor-neutral operating system managed by the Eclipse Foundation.
 
