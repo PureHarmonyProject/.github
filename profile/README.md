@@ -1,5 +1,5 @@
 # Welcome to PureHarmony platform based on Oniro
-PureHarmony hosts the code and repositories for add-ons and enhancements to the OpenHarmony project. These enhancements are part of the base OS, Oniro Project, an open-source, vendor-neutral operating system managed by the Eclipse Foundation.
+PureHarmony hosts the code and repositories for add-ons and enhancements to the OpenHarmony project. These enhancements are part of the base OS, Oniro Project, an open-source, vendor-neutral operating system managed by the Eclipse Foundation. Source model of PureHarmony is a mixed-model distribution, HarmonyOS in reverse like a shell, Open source for community, but with properitary app resource components for industry and by industry.
 
 # Objective of the Project
 It is more than a Oniro distro. The goal of this project is to build upon Oniro-OpenHarmony, extending it with additional functionalities tailored for global markets. OpenHarmony-Oniro, HarmonyOS as a open source community and commercial bridge for industry on app ecology building resources from the software foundations of Oniro. #operationhongmeng
