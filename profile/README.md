@@ -10,6 +10,7 @@ PureHarmony operating system hosts the code and repositories for add-ons and enh
 
 ![image](https://github.com/user-attachments/assets/976a9907-3605-4b2d-8bca-625feaa34922)
 
+![image](https://github.com/user-attachments/assets/d6683deb-c0f5-4c82-afe5-b7d74c7adc78)
 
 
 
