@@ -1,4 +1,4 @@
-open source project. White label apps
+open source project. White label apps supply chain for industry.
 
 <!-- Welcome to PureHarmony platform based on Oniro
 PureHarmony hosts the code and repositories for add-ons and enhancements to the OpenHarmony project. These enhancements are part of the base OS, Oniro Project, an open-source, vendor-neutral operating system managed by the Eclipse Foundation.
