@@ -1,4 +1,5 @@
 GreenHat PureHarmony Open Source Project. White label apps supply chain for western software services industry.
+
 ![image](https://github.com/user-attachments/assets/0d2bbf67-1ce0-4a45-8d7e-3fef8d0c27dd)
 
 <!-- Welcome to PureHarmony platform based on Oniro
