@@ -1,4 +1,4 @@
-GreenHat PureHarmony software infrastructure Open Source Project. White label apps supply chain for western software services industry with Western Europe as the bridge for neutral app development on neutral platforms such as European Eclipse Oniro platform with wider OpenAtom OpenHarmony based platforms. Helping clients build and tap into wider markets of large customers potentials in geopolitical challenges. 
+GreenHat PureHarmony software infrastructure Open Source Project. White label apps supply chain for western software services industry with Western Europe as the bridge for neutral app development on neutral platforms such as European Eclipse Oniro platform with wider OpenAtom OpenHarmony based platforms, integrating open source stack Open Mobile Hub and apps built from scratch on open source, utilising the power of open source. Helping clients build and tap into wider markets of large customers potentials in geopolitical challenges. 
 
 ![image](https://github.com/user-attachments/assets/0d2bbf67-1ce0-4a45-8d7e-3fef8d0c27dd)
 
