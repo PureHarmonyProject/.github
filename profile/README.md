@@ -1,7 +1,7 @@
 GreenHat PureHarmony software infrastructure Open Source Project is a UK initiative. White label apps supply chain for western software services industry with Western Europe as the bridge for neutral app development on neutral platforms such as European Eclipse Oniro platform project with wider OpenAtom OpenHarmony based platforms in western markets, integrating open source stack Open Mobile Hub and apps built from scratch on open source, utilising the power of open source. Helping clients build and tap into wider markets of large customers potentials in geopolitical challenges.
 
 What's the Objective?
-We aim to pitch to global industry services developers from the western market to expand their applications onto the third major global platform outside duopoly platforms iOS, Android propreirtary infrastructure controlled by one country making app compatibility harder that breaks EU Digital Markets Act and UK CMA - Competition and Markets Authority regulations.
+We aim to pitch to global industry services developers from the western market to expand their applications onto the third major global platform outside duopoly platforms such as iOS, Android propreirtary infrastructure controlled by one country making app compatibility harder, limiting user base, balkanising and fragmenting ecosystems and ultimately limiting innovation in the global marketplace that breaks EU Digital Markets Act and UK CMA - Competition and Markets Authority regulations.
 
 ![image](https://github.com/user-attachments/assets/0d2bbf67-1ce0-4a45-8d7e-3fef8d0c27dd)
 
