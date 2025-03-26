@@ -16,7 +16,7 @@ Keep costs low while validating demand for your white-label apps.
 
 Phase 2 (Growth Stage)
 
-Transition to OCE once you:
+Transition to OCE once:
 
 Secure corporate sponsors or EU grants.
 
