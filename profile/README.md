@@ -5,6 +5,27 @@ We aim to pitch to global industry services developers from the western market t
 
 ![image](https://github.com/user-attachments/assets/0d2bbf67-1ce0-4a45-8d7e-3fef8d0c27dd)
 
+Hybrid Approach: Liberapay + OCE
+For cost efficiency and compliance readiness, consider a phased strategy:
+
+Phase 1 (Early Stage)
+
+Use Liberapay for small donations and community support.
+
+Keep costs low while validating demand for your white-label apps.
+
+Phase 2 (Growth Stage)
+
+Transition to OCE once you:
+
+Secure corporate sponsors or EU grants.
+
+Need VAT-compliant invoicing for clients.
+
+Require fiscal hosting for legal protection. 
+
+Liberapay is a low-risk, low-cost starting point for early-stage fundraising, but PureHarmony will likely outgrow it quickly due to its commercial focus and EU compliance needs. Use Liberapay to bootstrap, then migrate to OCE when scaling partnerships or grants covering OCE fundraising launch early fees. After that successful OCE post-fundraising, using fundraised capital to cover OCE fee costs.
+
 <!-- Welcome to PureHarmony platform based on Oniro
 PureHarmony hosts the code and repositories for add-ons and enhancements to the OpenHarmony project. These enhancements are part of the base OS, Oniro Project, an open-source, vendor-neutral operating system managed by the Eclipse Foundation.
 
