@@ -3,6 +3,8 @@ GreenHat PureHarmony is an initiative for open source app software infrastructur
 What's the Objective?
 We aim to pitch to global industry services developers from the western market to expand their applications onto the third major global platform outside duopoly platforms such as Apple iOS and Google GMS Android, Microsoft Windows, Apple macOS, Apple WatchOS, Google WearOS proprietary mobile, desktop and wearable computing infrastructure controlled by one country vendor locked within few corporations making app compatibility harder, limiting user base, balkanising and fragmenting ecosystems, limiting normal global business activities hurting their customers and ultimately limiting innovation in the global marketplace that breaks EU Digital Markets Act and UK CMA - Competition and Markets Authority regulations.
 
+Development Activites strictly be done on Codeberg here: https://codeberg.org/PureHarmonyProject
+
 ![image](https://github.com/user-attachments/assets/0d2bbf67-1ce0-4a45-8d7e-3fef8d0c27dd)
 
 Hybrid Approach: Liberapay + OCE
